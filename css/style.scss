@@ -1,0 +1,20 @@
+
+#root{
+    width: 96%;
+    max-width: 75em;
+    margin: 3em auto;
+}
+
+.height-chart{
+    rect:hover {
+        fill: #abf;
+        stroke: #16A;
+    }
+}
+
+.weight-chart{
+    rect:hover {
+        fill: #ffd;
+        stroke: #957;
+    }
+}

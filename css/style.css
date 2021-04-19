@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #9ff3e8;
+}
+#root {
+  width: 96%;
+  max-width: 75em;
+  margin: 3em auto;
+}
+h1 {
+  text-align: center;
+}
+.height-chart rect:hover {
+  fill: #abf;
+  stroke: #16A;
+}
+
+.weight-chart rect:hover {
+  fill: #ffd;
+  stroke: #957;
+}
